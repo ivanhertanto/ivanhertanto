@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Next.JS
 - 📫 me@ivan.click or keybase: https://keybase.io/bivan#_
 
 <!--
