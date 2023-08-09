@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Next.JS
-- 📫 ivan@hertanto.com or keybase: https://keybase.io/bivan#_
+- 📫 me@ivan.click or keybase: https://keybase.io/bivan#_
 
 <!--
 **ivanhertanto/ivanhertanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
