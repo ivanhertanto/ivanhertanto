@@ -2,6 +2,11 @@
 
 - 📫 me@ivan.click or keybase: https://keybase.io/bivan#_
 
+
+_A fool will lose tomorrow
+Reaching back for yesterday_
+
+
 <!--
 **ivanhertanto/ivanhertanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
